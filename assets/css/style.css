@@ -45,7 +45,7 @@
   display: flex;
   flex-direction: column;
   width: 20%;
-  border: solid blueviolet;
+  border: solid rgb(138, 138, 138);
 }
 .box3 {
   display: flex;
